@@ -54,6 +54,7 @@
         <nimbus-jose-jwt.version>8.16</nimbus-jose-jwt.version>
         <mall-common.version>1.0-SNAPSHOT</mall-common.version>
         <mall-mbg.version>1.0-SNAPSHOT</mall-mbg.version>
+        <log4j2.version>2.15.0</log4j2.version>
     </properties>
 
     <dependencies>
